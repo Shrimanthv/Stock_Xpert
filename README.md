@@ -17,7 +17,7 @@
 
 ## Demo
 
-[🚀 **Live App** – Click here to test the model! Curious what it thinks? Enter your review to see its sentiment prediction.](https://shrimanthv-stock-xpert-app-xkxh2t.streamlit.app/)
+[🚀 **Live App** – Click here to test the model! Enter stock data and see if StockXpert predicts the price will go up or down tomorrow.](https://shrimanthv-stock-xpert-app-xkxh2t.streamlit.app/)
 
 ![Screenshot 1](https://github.com/Shrimanthv/Stock_Xpert/blob/main/Screenshot%202025-07-18%20202258.png?raw=true)
 ![Screenshot 2](https://github.com/Shrimanthv/Stock_Xpert/blob/main/Screenshot%202025-07-18%20202326.png?raw=true)
